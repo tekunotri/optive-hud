@@ -1,0 +1,1688 @@
+
+		
+		
+		
+		
+		//knuckles regular cross no outline
+		
+		"broeselhudCross_size: 1, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"1"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 2, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"2"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 3, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"3"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 4, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"4"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 5, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"5"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 6, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"6"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 7, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"7"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 8, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"8"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 9, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"9"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 10, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"10"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 11, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"11"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 12, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"12"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 13, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"13"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 14, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"14"
+				"antialias"									"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 15, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"15"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 16, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"16"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 17, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"17"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 18, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"18"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 19, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"19"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 20, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"20"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 21, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"21"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 22, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"22"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 23, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"23"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 24, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"24"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 25, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"25"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 26, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"26"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 27, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"27"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 28, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"28"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 29, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"29"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 30, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"30"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 31, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"31"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 32, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"32"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 33, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"33"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 34, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"34"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 35, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"35"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 36, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"36"
+				"antialias"									"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 37, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"37"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 38, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"38"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 39, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"39"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 40, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"40"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 41, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"41"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 42, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"42"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 43, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"43"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 44, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"44"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 45, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"45"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 46, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"46"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 47, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"47"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 48, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"48"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 49, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"49"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		"broeselhudCross_size: 50, outline: off"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"50"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"0"
+			}
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		//knuckles cross WITH outline
+		
+		"broeselhudCross_size: 1, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"1"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 2, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"2"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 3, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"3"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 4, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"4"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 5, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"5"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 6, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"6"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 7, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"7"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 8, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"8"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 9, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"9"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 10, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"10"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 11, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"11"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 12, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"12"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 13, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"13"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 14, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"14"
+				"antialias"									"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 15, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"15"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 16, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"16"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 17, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"17"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 18, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"18"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 19, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"19"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 20, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"20"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 21, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"21"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 22, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"22"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 23, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"23"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 24, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"24"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 25, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"25"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 26, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"26"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 27, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"27"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 28, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"28"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 29, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"29"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 30, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"30"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 31, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"31"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 32, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"32"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 33, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"33"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 34, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"34"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 35, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"35"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 36, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"36"
+				"antialias"									"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 37, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"37"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 38, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"38"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 39, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"39"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 40, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"40"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 41, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"41"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 42, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"42"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 43, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"43"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 44, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"44"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 45, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"45"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 46, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"46"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 47, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"47"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 48, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"48"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 49, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"49"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		"broeselhudCross_size: 50, outline: on"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"50"
+				"antialias" 								"1"
+				"additive"									"0"
+				"outline"									"1"
+			}
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		// blurred version for a drop shadow layer to the cross
+		"broeselhudCross_size: 1, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"1"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 2, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"2"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 3, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"3"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 4, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"4"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 5, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"5"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 6, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"6"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 7, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"7"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 8, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"8"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 9, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"9"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 10, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"10"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 11, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"11"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 12, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"12"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 13, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"13"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 14, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"14"
+				"antialias"									"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 15, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"15"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 16, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"16"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 17, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"17"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 18, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"18"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 19, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"19"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 20, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"20"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 21, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"21"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 22, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"22"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 23, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"23"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 24, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"24"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 25, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"25"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 26, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"26"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 27, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"27"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 28, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"28"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 29, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"29"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 30, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"30"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 31, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"31"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 32, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"32"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 33, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"33"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 34, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"34"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 35, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"35"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 36, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"36"
+				"antialias"									"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 37, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"37"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 38, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"38"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 39, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"39"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 40, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"40"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 41, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"41"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 42, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"42"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 43, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"43"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 44, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"44"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 45, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"45"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 46, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"46"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 47, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"47"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 48, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"48"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 49, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"49"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		"broeselhudCross_size: 50, blur"
+		{
+			"1"
+			{
+				"name"										"broeselhudCross"
+				"tall"										"50"
+				"antialias" 								"1"
+				"additive"									"0"
+				"blur"		"1"
+			}
+		}
+		
+		
+		
+		
