@@ -1,6 +1,5 @@
-
-
-
+Scheme
+	{
 	//////////////////////// CUSTOM FONT FILES /////////////////////////////
 	//
 	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
@@ -196,3 +195,4 @@
 			"name" "Quicksand Light"
 		}
 	}
+}
