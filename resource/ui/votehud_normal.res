@@ -67,6 +67,7 @@
 		//}		
 	}
 	
+
 	"VoteActive"
 	{
 		"ControlName"	"EditablePanel"
@@ -77,7 +78,7 @@
 		"tall"			"144"
 		"visible"		"0"
 		"enabled"		"1"
-		//"border"		"TFFatLineBorderOpaque"
+		"border"		"TFFatLineBorderOpaque"
 		
 		"Header"
 		{
@@ -113,7 +114,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
-			"fgcolor_override"	"216 216 216 255"
+			"fgcolor_override"	"255 255 255 255"
 			"wrap"			"1"
 			"noshortcutsyntax" "1"
 		}
@@ -164,7 +165,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"216 216 216 255"
+			"fgcolor_override"	"255 255 255 255"
 		}
 		
 		"Option1Background_Selected"
@@ -196,7 +197,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
-			"fgcolor_override"	"216 216 216 255"
+			"fgcolor_override"	"255 255 255 255"
 		}
 		
 		"LabelOption2"
@@ -215,7 +216,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"216 216 216 255"
+			"fgcolor_override"	"255 255 255 255"
 		}
 		
 		"Option2Background_Selected"
@@ -247,7 +248,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardSmall"
-			"fgcolor_override"	"216 216 216 255"
+			"fgcolor_override"	"255 255 255 255"
 		}
 		
 		"LabelOption3"
@@ -266,7 +267,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"216 216 216 255"
+			"fgcolor_override"	"255 255 255 255"
 		}
 		
 		"Option3Background_Selected"
@@ -298,7 +299,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"216 216 216 255"
+			"fgcolor_override"	"255 255 255 255"
 		}
 		
 		"Option4Background_Selected"
@@ -330,7 +331,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"font"			"ScoreboardVerySmall"
-			"fgcolor_override"	"216 216 216 255"
+			"fgcolor_override"	"255 255 255 255"
 		}
 		
 		"Option5Background_Selected"
@@ -396,7 +397,7 @@
 			"no_texture"	"vgui/hud/vote_no"			
 		}			
 	}
-	
+
 	// This is sent to the vote caller when they're not able to start the vote
 	// I don't care, plus there is a sound effect
 	"CallVoteFailed"
@@ -531,25 +532,27 @@
 		//}		
 	}
 	
+	
 	"VoteSetupDialog"
 	{
 		"ControlName"		"CVoteSetupDialog"
 		"fieldName"			"VoteSetupDialog"
-		"xpos"				"c-200"
-		"ypos"				"c-150"
-		"wide"				"400"
-		"tall"				"310"
+		"xpos"				"c-300"
+		"ypos"				"c-180"
+		"wide"				"600"
+		"tall"				"360"
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
-		//"border"			"TFFatLineBorderOpaque" // no border pls
+		"border"			"TFFatLineBorderOpaque"
 		"bgcolor_override"	"0 0 0 0"
 		"PaintBackground"	"0"
 
 		"header_font"		"ItemFontNameLarge"
+		"player_font"		"Default"
 		"header_fgcolor"	"Orange"
 
 		"issue_width"		"180"		
@@ -557,7 +560,7 @@
 		"issue_fgcolor"		"TanLight"
 		"issue_fgcolor_disabled"	"TanDark"
 		
-		"parameter_width"	"200"
+		"parameter_width"	"370"
 
 		"TitleLabel"
 		{
@@ -568,7 +571,7 @@
 			"textAlignment"	"north"
 			"xpos"			"0"
 			"ypos"			"10"
-			"wide"			"400"
+			"wide"			"550"
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -602,8 +605,8 @@
 			"xpos"		"190"
 			"ypos"		"38"
 			"zpos"		"2"
-			"wide"		"200"
-			"tall"		"200"
+			"wide"		"400"
+			"tall"		"280"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
@@ -619,7 +622,7 @@
 			"font"			"HudFontSmallestBold"
 			"labelText"		"%combo_label%"
 			"textAlignment"	"east"
-			"xpos"			"5"
+			"xpos"			"10"
 			"ypos"			"245"
 			"zpos"			"1"
 			"wide"			"75"
@@ -634,10 +637,10 @@
 			"ControlName"		"ComboBox"
 			"fieldName"			"ComboBox"
 			"Font"				"HudFontSmallestBold"
-			"xpos"				"85"
-			"ypos"				"245"
+			"xpos"				"17"
+			"ypos"				"265"
 			"zpos"				"1"
-			"wide"				"235"
+			"wide"				"160"
 			"tall"				"20"
 			"autoResize"		"0"
 			"pinCorner"			"0"
@@ -663,8 +666,8 @@
 		{
 			"ControlName"		"Button"
 			"fieldName"		"CallVoteButton"
-			"xpos"		"75"
-			"ypos"		"275"
+			"xpos"		"330"
+			"ypos"		"325"
 			"wide"		"160"
 			"tall"		"24"
 			"autoResize"	"0"
@@ -684,8 +687,8 @@
 		{
 			"ControlName"		"Button"
 			"fieldName"		"Button1"
-			"xpos"		"240"
-			"ypos"		"275"
+			"xpos"		"500"
+			"ypos"		"325"
 			"wide"		"80"
 			"tall"		"24"
 			"autoResize"	"0"

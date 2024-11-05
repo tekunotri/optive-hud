@@ -218,8 +218,9 @@
 		}	
 	}
 	
-	
-	"TeamStatus" // class icons to show who alive and who dead on ya team
+	// class icons to show who alive and who dead on ya team
+	// change ypos to 0 to move this up!!!
+	"TeamStatus" 
 	{
 		"ControlName"								"CTFTeamStatus"
 		"fieldName"									"TeamStatus"
