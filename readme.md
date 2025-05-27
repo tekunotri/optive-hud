@@ -3,6 +3,7 @@
 # optive hud
 ### by Optivex
 
+this legacy version is based off default, for the new version wich is based on LightHUD, check the `main` branch!
 
 **[SCREENSHOTS](https://imgur.com/a/UWRsnfR)** -
 **[INSTALLATION](https://github.com/Hypnootize/TF2-HUD-GitHub-Resources/blob/main/installation/windows_install.md)** -
